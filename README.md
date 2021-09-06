@@ -21,8 +21,8 @@
 ## ✌️ Install the App
 
 ```shell
-# run npm i styled-components react-router-dom react-icons
-npm install
+# to install node modules, type 
+npm i styled-components react-router-dom react-icons
 ```
 
 ## 😻 Run Real-Estate
