@@ -11,7 +11,7 @@ export const Button = styled(Link)`
   transition: 0.3s;
   display: flex;
   justify-content: center;
-  aligh-items: center;
+  align-items: center;
   padding: ${({ big }) => (big ? '16px 40px' : '5px 24px')};
   color: ${({ primary }) => (primary ? '#fff' : '#000d1a')};
   font-size: ${({ big }) => (big ? '20px' : '14px')};
