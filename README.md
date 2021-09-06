@@ -28,7 +28,7 @@ npm i styled-components react-router-dom react-icons
 ## 😻 Run Real-Estate
 
 ```bash
-# to start CareForYou, type
+# to start Real-Estate, type
 npm start
 # or if you prefer yarn
 yarn start
